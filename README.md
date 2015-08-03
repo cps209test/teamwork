@@ -3,6 +3,5 @@
 Because if we do it together, we can blame the others
 if it all goes pear-shaped.
 
-Super attitude there, ace...
-
+This attitude is the stuff of legend and greatness, ace...
 
