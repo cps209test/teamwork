@@ -1,0 +1,5 @@
+This file contains important data.
+
+That is, it will be important if we decide to go this route...
+
+That's why it's starting out on a feature branch!
